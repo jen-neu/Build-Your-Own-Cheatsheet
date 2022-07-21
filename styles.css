@@ -1,0 +1,47 @@
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrJJfecg.woff2) format('woff2');
+}
+
+body {
+  background-color: #fdefe4;
+  color: black;
+  font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+  font-size: 32px;
+  color: black;
+  text-align: center;
+  letter-spacing: 1px;
+}
+
+h2 {
+  font-size: 22px;
+  padding: 15px;
+  color: #f5b176;
+  text-align: center;
+}
+
+th {
+  background-color: #fbe0c8;
+}
+
+table {
+  text-align: left;
+  margin: 20px auto;
+  border: 2px solid #f5b176;
+  width: 800px;
+  padding: 1px;
+}
+
+td {
+  border: 1px solid dark purple;
+  padding: 2px;
+}
+
+span {
+  background-color: white;
+}
